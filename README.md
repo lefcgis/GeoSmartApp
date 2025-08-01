@@ -1,5 +1,5 @@
 # 🛰️ GeoSmartApp 🌎
-Aplicación para búsqueda y visualización de imágenes satelitales desde Google Earth Engine. Permite a los usuarios buscar, visualizar y descargar imágenes satelitales filtradas por fecha, sensor y área de estudio (shapefile). Esta aplicación fue desarrollada para el curso de Taller de Inteligencia Artificial Aplicada de la [Maestría en Business Analytics e Inteligencia Artificial Aplicada - 2025 - I](https://posgrado.uni.edu.pe/index.php/maestria-landing/landing-mbaiaa) de la [Universidad Nacional de Ingeniería, Perú 🇵🇪](https://admision.uni.edu.pe/)
+Aplicación para búsqueda, visualización y descarga de imágenes satelitales desde Google Earth Engine. Permite a los usuarios buscar, visualizar y descargar imágenes satelitales filtradas por fecha, sensor y área de estudio (shapefile). Esta aplicación fue desarrollada para el curso de Taller de Inteligencia Artificial Aplicada de la [Maestría en Business Analytics e Inteligencia Artificial Aplicada - 2025 - I](https://posgrado.uni.edu.pe/index.php/maestria-landing/landing-mbaiaa) de la [Universidad Nacional de Ingeniería, Perú 🇵🇪](https://admision.uni.edu.pe/)
 
 
 
@@ -20,7 +20,7 @@ Para la exportación de las imágenes satelitales a formato GeoTIFF, solo es pos
 
 ## 🔗 Enlace a la App
 
-👉 [Ver la aplicación en línea](https://ee-lefcgis.projects.earthengine.app/view/geodatasmartvisvf)
+👉 [Ver la aplicación en línea](https://ee-lefcgis.projects.earthengine.app/view/geosmartappdev)
 
 
 ## 🔗 Grupos 2
