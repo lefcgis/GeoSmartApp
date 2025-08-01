@@ -6,19 +6,20 @@ Aplicación para búsqueda, visualización y descarga de imágenes satelitales d
 ![Logo GeoSmartApp](https://github.com/lefcgis/GeoSmartApp/blob/main/Screenshot_1.png?raw=true)
 
 
-## 📦 Funcionalidades
+## 📦 Funcionalidades:
 
 - Selección de fechas
 - Selección de sensor satelital (Sentinel-2 o Landsat 8)
 - Exportación en GeoTIFF o PNG
 - Subida de shapefile como asset
 
-## ✍️ Consideraciones
+
+## ✍️ Consideraciones:
 
 Para la exportación de las imágenes satelitales a formato GeoTIFF, solo es posible realizarlo desde el Editor de GEE (por seguridad, GEE Apps no lo permite).
 
 
-## 🔗 Enlace a la App
+## 🔗 Solución:
 
 👉 [Ver la aplicación en línea](https://ee-lefcgis.projects.earthengine.app/view/geosmartappdev)
 
