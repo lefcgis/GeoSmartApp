@@ -21,7 +21,7 @@ Para la exportación de las imágenes satelitales a formato GeoTIFF, solo es pos
 
 ## 🔗 Solución:
 
-👉 [Ver la aplicación en línea](https://ee-lefcgis.projects.earthengine.app/view/geosmartappdev)
+👉 [GeoSmartApp](https://ee-lefcgis.projects.earthengine.app/view/geosmartappdev)
 
 
 ## 🔗 Grupos 2
